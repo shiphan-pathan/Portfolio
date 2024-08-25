@@ -1,6 +1,6 @@
 import React from 'react'
 import java from "../../public/java.png"
-import javascript from "../../public/javascript.png"
+import javascript from "../../public/Javascript.png"
 import springboot from "../../public/spring-boot-logo.png"
 import react from "../../public/React.webp"
 const Portfolio = () => {
