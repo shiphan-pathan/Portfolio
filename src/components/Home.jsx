@@ -24,11 +24,11 @@ const Home = () => {
             </div>
             <br />
             <p className='text-sm md:text-md text-justify'>
-              passionate and detail oriented Web Developer dedicated to crafting innovative, 
+              Passionate and detail oriented Web Developer dedicated to crafting innovative, 
               user focused digital experiences. With a strong commitment to continuous learning, 
               clean and efficient code, and modern design principles, I strive to deliver high quality,
               impactful solutions. I thrive in collaborative environments where creativity, technology, 
-              and problem-solving come together to create meaningful results.
+              and problem solving come together to create meaningful results.
             </p>
             <br />
             {/* social media icon */}
