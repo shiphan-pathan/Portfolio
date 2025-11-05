@@ -6,6 +6,7 @@ import Portfolio from './components/Portfolio'
 import Footer from './components/Footer'
 import Contact from './components/Contact'
 import { Toaster } from 'react-hot-toast'
+import Experiance from './components/Experiance'
 const App = () => {
   return (
     <>
@@ -13,6 +14,7 @@ const App = () => {
     <Navbar/>
     <Home />
     <About />
+    <Experiance/>
     <Portfolio />
     <Contact />
     <Footer />
