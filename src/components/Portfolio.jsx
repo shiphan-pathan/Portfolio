@@ -6,13 +6,13 @@ import react from "../../public/React.webp"
 const Portfolio = () => {
     const cardItem=[
 
-        {
-            id: 1,
-            logo: javascript,
-            name:"JavaScript",
-            discription:"Tic-Tac-Toe",
-            link: "https://github.com/shiphan-pathan/Tic-Tac-Toe.git"
-        },
+        // {
+        //     id: 1,
+        //     logo: javascript,
+        //     name:"JavaScript",
+        //     discription:"Tic-Tac-Toe",
+        //     link: "https://github.com/shiphan-pathan/Tic-Tac-Toe.git"
+        // },
         {
             id:2,
             logo:java,
@@ -29,8 +29,8 @@ const Portfolio = () => {
         },
         {
             id:4,
-            logo:springboot,
-            name:"Spring Boot",
+            logo:react,
+            name:"React",
             discription:"Product Management System",
             link: "https://github.com/shiphan-pathan/Product-Management-System.git"
         },
@@ -38,8 +38,17 @@ const Portfolio = () => {
             id:5,
             logo:react,
             name:"React",
-            discription:"Book Store Websites"
-        }
+            discription:"Book Store Websites",
+            link:"https://github.com/shiphan-pathan/Book-Store-Website"
+        },
+        {
+            id:6,
+            logo:react,
+            name:"React",
+            discription:"Task Manager Application",
+            link:"https://github.com/shiphan-pathan/Task-Manager-Application"
+        },
+        
     ]
   return (
     <>
