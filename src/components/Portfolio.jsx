@@ -48,6 +48,13 @@ const Portfolio = () => {
             discription:"Task Manager Application",
             link:"https://github.com/shiphan-pathan/Task-Manager-Application"
         },
+                {
+            id:7,
+            logo:react,
+            name:"Redux",
+            discription:"Product Management System",
+            link:"https://github.com/shiphan-pathan/Redux-Product-Management-System.git"
+        },
         
     ]
   return (
