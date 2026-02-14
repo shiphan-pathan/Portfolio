@@ -9,7 +9,7 @@ const Experiance = () => {
                   <h1 className='text-3xl font-bold mb-5'>Experiance</h1>
                   <span>
                      <span className='font-semibold'>Freelance Software Developer</span> <br />
-                     <span className='font-semibold'>Freelancer.com | September 2025 – Present</span> <br />
+                     <span className='font-semibold'>Freelancer.com | September 2025 to December 2025</span> <br />
                      <p>Built and deployed custom RESTful APIs using Node.js (TypeScript) and Prisma ORM with MySQL
                         database integration.<br />
                         Designed optimized data models and handled complex relationships in Prisma for scalable backend
